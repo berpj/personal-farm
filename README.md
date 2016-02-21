@@ -2,5 +2,5 @@
 
 - Parts list
 - 3D model
-- - Schematic
+- Schematic
 - How to
