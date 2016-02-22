@@ -1,0 +1,4 @@
+0 8 * * * (for run in {1..3}; do /usr/bin/rf_send 0 1234561 0 on; sleep 2; done) # Turn on lights in the morning
+0 20 * * * (for run in {1..3}; do /usr/bin/rf_send 0 1234561 0 off; sleep 2; done) # Turn off lights in the evening
+0 * * * * (for run in {1..3}; do /usr/bin/rf_send 0 1234561 1 on; sleep 2; done) # Turn on pump every 30 minutes
+30 * * * * (for run in {1..3}; do /usr/bin/rf_send 0 1234561 1 off; sleep 2; done) # Turn off pump every 30 minutes
