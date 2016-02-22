@@ -2,10 +2,13 @@
 
 ## Part 1
 
-- Parts list:
-- 3D model:
-- Schematic:
-- How to:
+### Parts list:
+
+### 3D model:
+
+### Schematic:
+
+### How to:
 
 ## Part 2
 
