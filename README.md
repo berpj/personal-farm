@@ -8,7 +8,7 @@ https://docs.google.com/spreadsheets/d/1US5cUFFdEn645P3fAC-G8g_V9wBXrt123sjkrbHr
 
 ### 3D model:
 
-WIP
+![3d.png](3d.png)
 
 ### Schematic:
 
