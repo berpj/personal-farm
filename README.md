@@ -8,17 +8,29 @@ https://docs.google.com/spreadsheets/d/1US5cUFFdEn645P3fAC-G8g_V9wBXrt123sjkrbHr
 
 ### 3D model:
 
+WIP
+
 ### Schematic:
 
+WIP
+
 ### How to:
+
+https://blog.bergeron.io/personal-farm-1
 
 ## Part 2
 
 ### Parts list:
 
-https://docs.google.com/spreadsheets/d/15CXhcBY_oZKP_PDok4o-QL6TPh4yRzQvXeK24cAvVII/edit#gid=0
+https://docs.google.com/spreadsheets/d/15CXhcBY_oZKP_PDok4o-QL6TPh4yRzQvXeK24cAvVII
+
+### Schematic:
+
+WIP
 
 ### How to:
+
+https://blog.bergeron.io/personal-farm-2
 
 ### Raspberry Pi setup:
 
