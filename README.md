@@ -8,7 +8,9 @@ https://docs.google.com/spreadsheets/d/1US5cUFFdEn645P3fAC-G8g_V9wBXrt123sjkrbHr
 
 ### 3D view:
 
-<img src="https://github.com/berpj/personal-farm/blob/master/3d.png" width="60%">
+<a href="https://skfb.ly/L9Fx"><img src="https://github.com/berpj/personal-farm/blob/master/3d.png" width="60%"></a>
+
+https://skfb.ly/L9Fx
 
 ### How to:
 
