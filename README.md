@@ -22,9 +22,9 @@ https://blog.bergeron.io/personal-farm-1
 
 https://docs.google.com/spreadsheets/d/15CXhcBY_oZKP_PDok4o-QL6TPh4yRzQvXeK24cAvVII
 
-### Schematic:
+### Circuit diagram:
 
-WIP
+<img src="https://github.com/berpj/personal-farm/blob/master/circuit_diagram.jpg" width="60%">
 
 ### How to:
 
